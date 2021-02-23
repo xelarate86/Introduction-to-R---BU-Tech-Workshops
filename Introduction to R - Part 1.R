@@ -1,6 +1,6 @@
 # Introduction to R - Part 1 (2/19/2021) with Aidan Chaffin
 # Uses an instructor-provided dataset on the DC version of bluebikes!
-  # We're mainly worknig with
+  # We're mainly working with the "day" dataset
 
 
 # Printing hello world
